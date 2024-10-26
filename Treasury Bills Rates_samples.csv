@@ -1,0 +1,6 @@
+﻿cusip,security_type,security_term,auction_date,issue_date,maturity_date,price_per100
+912827KC5,Note,10-Year,1979-10-31,1979-11-15,1989-11-15,null
+912810CK2,Bond,30-Year,1979-11-01,1979-11-15,2009-11-15,null
+9127933Y0,Bill,13-Week,1979-12-28,1980-01-03,1980-04-03,null
+9127934U7,Bill,26-Week,1979-12-28,1980-01-03,1980-07-03,null
+9127935W2,Bill,52-Week,1980-01-02,1980-01-08,1981-01-02,null
